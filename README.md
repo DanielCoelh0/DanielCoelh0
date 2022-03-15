@@ -1,8 +1,8 @@
 # Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Daniel Coelho and I'm a software developer. I'm from Portugal, living in Sintra and currently working at NTTDATA. You can find me on [Linkedin](https://www.linkedin.com/in/daniel-coelho-bb966b1a1/).
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/<Code>-<Lua>-informational?style=flat&logo=<lua>&logoColor=white&color=2bbc8a)
+## 🔧 Fivem Projects
+- [qb-lift](https://github.com/DanielCoelh0/qb-lift)
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/DanielCoelh0/DanielCoelh0">
