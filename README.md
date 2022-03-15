@@ -6,6 +6,3 @@ You can find me on [Linkedin](https://www.linkedin.com/in/daniel-coelho-bb966b1a
 <a href="https://github.com/DanielCoelh0/DanielCoelh0">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DanielCoelh0&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
-
-## 🔧 Fivem Projects
-- [qb-lift](https://github.com/DanielCoelh0/qb-lift)
