@@ -1,5 +1,5 @@
 # Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Daniel Coelho and I'm a software developer. I'm from Portugal, living in Sintra and currently working at NTTDATA. 
+My name is Daniel Coelho and I'm a software developer. I'm from Portugal, living in Sintra. 
 You can find me on [Linkedin](https://www.linkedin.com/in/daniel-coelho-bb966b1a1/) or contact me at discord **KUMApt#0001**
 
 ## &#x1f4c8; GitHub Stats
