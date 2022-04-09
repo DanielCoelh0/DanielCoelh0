@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/daniel-coelho-bb966b1a1">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://discord.gg/DxXFDqnxYs">
+  <a href="#">
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
   <a href="https://twitter.com/KUM4pt">
