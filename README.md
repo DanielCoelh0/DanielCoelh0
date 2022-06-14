@@ -15,7 +15,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> About Me :
+### 👋 About Me :
 - 👨‍💻 My name is Daniel Coelho (aka KUMApt), I'm from Portugal and currently live in Sintra.
 
 - 🎮 Currently studying to become a game developer
