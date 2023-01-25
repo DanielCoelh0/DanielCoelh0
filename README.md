@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://avatars.githubusercontent.com/u/36710278?v=4" width="100"/>
   <div id="badges">
-  <a href=" www.linkedin.com/in/danielcoelh0">
+  <a href="https://www.linkedin.com/in/danielcoelh0">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="#">
