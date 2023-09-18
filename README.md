@@ -18,7 +18,7 @@
 ### 👋 About Me :
 - 👨‍💻 My name is Daniel Coelho (aka KUMApt), I'm from Portugal and currently live in Sintra.
 
-- 🎮 Currently studying to become a game developer
+- 🤓 .Net & Game Developer
 
 - <img src="https://avatars.githubusercontent.com/u/81791099?s=200&v=4" width="15px"> Fivem/QBCore standalone developer
 
